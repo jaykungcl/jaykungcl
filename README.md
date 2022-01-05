@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaykungcl
 - 👀 I’m interested in Web development, mainly proficient in JS, React.js 
-- 🌱 I’m currently learning more in everything!!!
+- 🌱 I’m currently learning more about everything!!!
 - 💞️ I’m looking froward to collaborate on projects that contribute to the society.
 - 📫 How to reach me: chaiyasit.ler@gmail.com
 
