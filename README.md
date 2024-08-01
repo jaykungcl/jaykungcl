@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaykungcl
-- 👀 I’m interested in Web development, mainly proficient in JS, React.js 
-- 🌱 I’m currently learning more about everything in Web technologies extended to mobile development.
+- 👀 I’m interested in Web development and technologies in general, mainly proficient in JS/TS, React.js, css/tailwind/MUI, Nest.js and many more!
+- 🌱 I’m currently working as a full-stack engineer and learning more about everything.
 - 💞️ I’m looking froward to collaborate on projects that contribute to the society.
 - 📫 How to reach me: chaiyasit.ler@gmail.com
 
